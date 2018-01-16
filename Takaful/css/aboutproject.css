@@ -1,0 +1,32 @@
+#title{
+    margin: 30px;
+    margin-left: 50px;
+    color: #5db4d7;
+}
+/* Head */
+#head{
+    background-color: #5db4d7;
+    height: 200px;
+}
+#head .col-md-2{
+    margin-top: 60px;
+}
+#head h1{
+    color: white;
+}
+#head b{
+    color: white;
+}
+.education-image{
+    height: 350px;
+    background: url("../pics/aboutproject/volunteer-main-banner.jpg");
+    background-size: cover;
+}
+/* About */
+.about{
+    padding: 50px;
+}
+.project-images{
+    
+}
+

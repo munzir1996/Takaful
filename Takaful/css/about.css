@@ -1,0 +1,39 @@
+/* About */
+#about{
+    background: url("../pics/about/about-pic.jpg") no-repeat center center fixed;
+    height: 400px;
+    padding: 50px 0;
+}
+/* About Info */
+#about-info{
+    margin: 50px 0;
+}
+#about-info h1{
+    font-size: 16px;
+}
+/* Objective */
+#objective{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+#objective img{
+    width: 80px;
+}
+#objective h4{
+    color: #1fa7b3;
+}
+/* Heart */
+#heart{
+    background: url("../pics/projects/Heart-wallpaper.jpg") no-repeat center center fixed;
+    height: 300px;
+    padding: 50px 0;
+}
+.heart-text{
+    font-size: 1em;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+

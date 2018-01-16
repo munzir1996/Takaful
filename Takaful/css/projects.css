@@ -1,0 +1,143 @@
+/* Projects style */
+#project{
+    background-color: #f1f1f1;
+    padding: 60px;
+}
+#project h1{
+    text-align: center;
+    color: #4b4b4b;
+}
+#project p{
+    text-align: center;
+    color: #4b4b4b;
+    padding: 20px;
+}
+
+/*Types style */
+.project-cards{
+    float: left;
+}
+.card{
+    float: left;
+    border: none;
+    margin-bottom: 60px;
+}
+.card span{
+    padding-bottom: 20px;
+}
+#types{
+    
+    padding: 60px;
+}
+#types h1{
+    text-align: center;
+    color: #ff335a;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+/* Finished style */
+#finished{
+    background-color: #f1f1f1;
+    padding: 60px;
+}
+#finished h1{
+    text-align: center;
+    color: #4b4b4b;
+}
+#finished p{
+    text-align: center;
+    color: #4b4b4b;
+    padding: 20px;
+}
+/* Success */
+#success{
+    background: url("../pics/projects/Success-Story.jpg") no-repeat center center fixed;
+    height: 400px;
+    padding: 50px 0;
+}
+.success-story-size{
+    font-size: 4em;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+}
+.col-md-offset-1 {
+    margin-left: 8.33333333%;
+}
+#success a{
+    width: 200px;
+}
+/* Construction */
+#construction{
+    background-color: #f1f1f1;
+    padding: 60px;
+}
+#construction h1 {
+    text-align: center;
+    color: #ff335a;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+.padding-none{
+        padding-left: 0px;
+    padding-right: 0px;
+}
+#correct{
+    margin-top: 13px;
+}
+#construction a{
+    color: white;
+}
+#construction a{
+    margin-top: 30px;
+    width: 200px;
+}
+/* Around Sudan */
+#around-sudan{
+    background-color: white;
+    padding: 60px;
+}
+#around-sudan h1{
+    text-align: center;
+    color: #4b4b4b;
+}
+.col-md-6{
+    margin-top: 30px;
+    text-align: center;
+}
+#around-sudan h1{
+    margin-top: 10px;
+    color: #ff335a;
+}
+/* Heart */
+#heart{
+    background: url("../pics/projects/Heart-wallpaper.jpg") no-repeat center center fixed;
+    height: 400px;
+    padding: 50px 0;
+}
+.heart-story-size{
+    font-size: 1em;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+}
+.modal-dialog{
+    max-width: none;
+    max-height: none;
+    height: 100%;
+    width: 100%;
+}
+.fit{
+    max-height: none;
+    max-width: none;
+    height: inherit;
+    width: inherit;
+}
+
+
+
+
+
+
+
+
